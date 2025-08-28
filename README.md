@@ -92,3 +92,4 @@
 - ✉️ Email: kosenkov25@yandex.ru  
 - 💬 Telegram: [@dimirkos](https://t.me/dimirkos)  
 - 💻 GitHub: [github.com/dimirkos](https://github.com/dimirkos)  
+- 💻 Tableau: https://public.tableau.com/app/profile/.42088764/vizzes
